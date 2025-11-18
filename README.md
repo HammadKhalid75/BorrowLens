@@ -40,8 +40,8 @@
 <br>
 
 
-<img src="Theme_Light.png" width="240" alt="Light mode"/>
-<img src="Theme_Dark.png" width="240" alt="Dark mode"/>
+<img src="Theme_Light.png" width="240" alt="Light theme"/>
+<img src="Theme_Dark.png" width="240" alt="Dark theme"/>
 
 </div>
 
