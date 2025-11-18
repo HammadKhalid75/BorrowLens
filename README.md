@@ -10,14 +10,19 @@
 
 <div align="center">
 
-<img src="screenshots/list_light.jpg" width="240" alt="Light mode list"/>
-<img src="screenshots/add_item.jpg" width="240" alt="Add item screen"/>
-<img src="screenshots/list_dark.jpg" width="240" alt="Dark mode list"/>
+<img src="List_Light.png" width="240" alt="Light mode list"/>
+<img src="List_Dark.png" width="240" alt="Dark mode list"/>
 
-<br><br>
+<br>
 
-<img src="screenshots/overdue.jpg" width="240" alt="Overdue item (red)"/>
-<img src="screenshots/date_picker.jpg" width="240" alt="Material 3 Date Picker"/>
+<img src="Add_Edit_Light.png" width="240" alt="Add/Edit item dark screen"/>
+<img src="Add_Edit_Dark.png" width="240" alt="Add/Edit item dark screen"/>
+
+<br>
+
+
+<img src="Theme_Light.png" width="240" alt="Light mode"/>
+<img src="Theme_Dark.png" width="240" alt="Dark mode"/>
 
 </div>
 
