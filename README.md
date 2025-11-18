@@ -10,8 +10,9 @@
 
 <div align="center">
 
-<img src="screenshots/list_light.jpg" width="240" alt="Theme_Light.png"/>
-<img src="screenshots/add_item.jpg" width="240" alt="Theme_Dark.png"/>
+<img src="screenshots/list_light.jpg" width="240" alt="Light mode list"/>
+<img src="screenshots/add_item.jpg" width="240" alt="Add item screen"/>
+<img src="screenshots/list_dark.jpg" width="240" alt="Dark mode list"/>
 
 <br><br>
 
