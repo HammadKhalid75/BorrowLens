@@ -20,8 +20,7 @@
 - **Language**: Kotlin 100%  
 - **UI**: Jetpack Compose + Material 3  
 - **Architecture**: MVVM + Repository Pattern  
-- **Database**: Room + Kotlin Flow + StateFlow  
-- **DI**: Koin  
+- **Database**: Room + Kotlin Flow + StateFlow
 - **Preferences**: DataStore  
 - **Navigation**: Compose Navigation  
 
